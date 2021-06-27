@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">TodaysCocktail</string>
+    <string name="app_name">Cheers</string>
     <string name="imageDrinkDescription">Imagem do drink</string>
+    <string name="image_drink">imagem do drink</string>
+    <string name="image_cheers">Image Escrita Cheers</string>
+    <string name="cheers">cheers</string>
 </resources>
